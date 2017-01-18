@@ -32,3 +32,21 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project{
+     margin-left: 20px;
+
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}
+/*.project p{
+     font-variant: small-caps;
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 1px;
+     width: 1px;
+}*/
+
+
+
